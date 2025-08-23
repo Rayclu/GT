@@ -1,0 +1,16 @@
+.tapa{
+    background-color: rgb(232, 160, 64);
+    width: auto;
+    height: auto;
+}
+.relleno{
+    background-attachment: fixed;
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+.base{
+    background-color: rgb(232, 160, 64);
+    width: auto;
+    height: auto;
+}
