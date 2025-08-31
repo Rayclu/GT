@@ -1,0 +1,9 @@
+investigar:
+    -unbundled
+    -webpack
+    -esbuild
+
+manager_to_use:
+  -npm (probablemente, solo conozco este)
+  -yarn
+  -pnpm
